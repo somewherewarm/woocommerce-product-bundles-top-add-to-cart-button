@@ -1,0 +1,4 @@
+*** WooCommerce Product Bundles - Top Add to Cart Button ***
+
+2017.09.01 - version 1.0.0
+* Initial Release.
