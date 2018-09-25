@@ -3,7 +3,7 @@
 * Plugin Name: WooCommerce Product Bundles - Top Add to Cart Button
 * Plugin URI: http://woocommerce.com/products/product-bundles/
 * Description: Adds an add-to-cart button section at the top of Product Bundle pages.
-* Version: 1.0.2
+* Version: 1.0.3
 * Author: SomewhereWarm
 * Author URI: http://somewherewarm.gr/
 *
@@ -11,10 +11,10 @@
 * Domain Path: /languages/
 *
 * Requires at least: 4.1
-* Tested up to: 4.8
+* Tested up to: 4.9
 *
 * WC requires at least: 3.0
-* WC tested up to: 3.2
+* WC tested up to: 3.5
 *
 * Copyright: © 2017 SomewhereWarm SMPC.
 * License: GNU General Public License v3.0
@@ -32,7 +32,7 @@ class WC_PB_Top_Add_To_Cart {
 	 * Version.
 	 * @var string
 	 */
-	public static $version = '1.0.2';
+	public static $version = '1.0.3';
 
 	/**
 	 * Required PB version.

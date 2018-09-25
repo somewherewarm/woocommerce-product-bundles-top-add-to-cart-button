@@ -1,5 +1,8 @@
 *** WooCommerce Product Bundles - Top Add to Cart Button ***
 
+2018.09.25 - version 1.0.3
+* Tweak - Declare WooCommerce 3.5 support.
+
 2017.11.11 - version 1.0.2
 * Tweak - Updated readme.md file.
 
