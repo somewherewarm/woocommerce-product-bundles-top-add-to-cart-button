@@ -9,3 +9,7 @@ Mini-extension for [WooCommerce Product Bundles](https://woocommerce.com/product
 ### Important
 
 Requires WooCommerce Product Bundles 5.5+.
+
+The code in this plugin is provided “as is”.
+
+Support via Github is provided on a voluntary basis only.
